@@ -1,0 +1,79 @@
+.light{
+    background-color: rgb(255, 255, 255);
+    color: rgb(30, 95, 156);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-right: 5px;
+    border: 1px solid rgb(7, 79, 88);
+    font-size: 15px;
+}
+.dark{
+    background-color:black;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border: 1px solid white;
+    margin-right: 5px;
+    font-size: 15px;
+}
+.party{
+    background-color: rgb(166, 111, 230);
+    color:rgb(98, 16, 230);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border: 1px solid rgb(98, 17, 151);
+    margin-right: 5px;
+    font-size: 15px;
+}
+.dfault{
+    background-color: rgb(118, 199, 132);
+    color: rgb(25, 59, 18);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border: 1px solid white;
+    margin-right: 5px;
+    font-size: 15px;
+}
+ .light1{
+    width:100%;
+    color:black;
+    background-color:rgb(112, 166, 202);
+    height:40vh;
+    text-align:center;
+    padding-top:20%;
+
+  }
+  .dark1{
+    width:100%;
+    color:white;
+    background-color:black;
+    height:40vh;
+    text-align:center;
+    padding-top:20% 
+
+  }
+   .party1{
+    width:100%;
+    color:rgb(114, 39, 114);
+    background-color:rgb(57, 18, 199);
+    height:40vh;
+    text-align:center;
+    padding-top:20% 
+   
+  }
+  .dfault1{
+    width:100%;
+    color:rgb(64, 214, 127);
+    background-color:rgb(11, 78, 37);
+    height:40vh;
+    text-align:center;  
+    padding-top:20% 
+  }

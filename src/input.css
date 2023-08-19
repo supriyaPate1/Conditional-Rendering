@@ -1,0 +1,14 @@
+.inp{
+    text-align: center;
+}
+.inp input{
+    border: 2px solid blue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width:40%;
+    font-size: 20px;
+    color: rgb(6, 6, 65);
+}
+p{
+    color: blue;
+}
